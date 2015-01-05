@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:000316_0000_0FA4AE6FA8503C78"/>
-            <pb facs="tcp:000316_0001_0FA4AE707335B5F0"/>
+            <pb facs="unknown:000316_0000_0FA4AE6FA8503C78"/>
+            <pb facs="unknown:000316_0001_0FA4AE707335B5F0"/>
             <head>AT A GENERAL COURT Held at Boston; May 24th 1682.</head>
             <p>
                <hi>THis Court taking into consideration the frequent Ex<g ref="char:EOLhyphen"/>portation of our</hi> New-England <hi>Coyne out of the Country, whereby Commerce and Trade is very much obstructed; As an Expedient to keep Money in the Country:</hi>
